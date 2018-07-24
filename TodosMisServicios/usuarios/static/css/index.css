@@ -1,0 +1,17 @@
+
+div .item {
+	display: inline-block;
+	text-align: center;
+	width: 20%;
+	border: 2px dashed;
+	padding: 5px;
+	margin: 10px;
+}
+
+div .item ul{
+	text-align: left;
+}
+
+div .item img {
+	width: 50%;
+}
